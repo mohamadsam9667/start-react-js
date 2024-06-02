@@ -7,7 +7,7 @@
 
 .main-box{
     position: relative;
-    background: url(./klawiatur.jpeg) right no-repeat;
+    background: url(./klawiatur.jpeg) center no-repeat;
     height: 100vh;
     width: 100%;
     background-size: cover;
@@ -103,7 +103,7 @@
 }
 
 .main-box .btn_one i{
-    color:#fff;
+    color:#ae3e3e;
     font-size: 30px;
     font-weight: 700;
     position: absolute;
